@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'method-trace'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2017-08-03'
   s.summary     = "Adds a MethodTrace.method_trace convenience function"
   s.description = "Adds a MethodTrace.method_trace convenience function"
